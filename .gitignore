@@ -1,0 +1,4 @@
+*.bai
+.ipynb_checkpoints
+MALAT1.output
+filtered2.bam
